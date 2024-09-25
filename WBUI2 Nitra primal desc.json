@@ -1,0 +1,81 @@
+{
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 1,
+		"HideIcon": false,
+		"HideIconAfter": 1,
+		"IconURL": "",
+		"DisableIconText": false,
+		"IconPosition": 1,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": false,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Red> Welcome </>",
+				"title1": "<TextStyle.Blue> Welcome On Light's servers </>",
+				"title2": "<TextStyle.Blue> Settings </>",
+				"text1": "   \r\n\r\n\r\n Hi, all Community has been a close-knit community of gamers since January 2016. 1 Owner 3 Admins to help you ingame and on discord. System ticket on discord.\r\nI offer 28 servers between ASE & ASA with different dinos mods.\r\n\r\n      1. F1 For shop - Hold X on XBOX - Hold square on PS5\r\n      2. Option in teleporter to travel between cluster.\r\n      3. Dino finder in your inventory click on map and open finder.\r\n      4. Tab donation to buy item and dinos.\r\n      5.To find my other ASA servers click on the TUTO link at the    bottom. I propose Primal / Annunaki / Omega / Supreme / Dox.\r\n       \r\n\r\n    The other servers have an automatic crossplay store and each server has 100 slots. I use Nitrado to do the advertising on my dedicated servers more powerful. Join the discord.       \r\n",
+				"text2": "      \r\n\r\n\r\n          ● XP: x10, Harvest: x50, Taming: x20\r\n          ● Breed x10, Gestation: x10, Egg Hatch: x10\r\n          ● Player Level: 105\r\n          ● Level Wild 600 - After Tame 900\r\n          ● Keep all your Stuff on Death with (Death Inventory Keeper)\r\n",
+				"imageurl": "https://images5.alphacoders.com/740/740577.png"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red> Rules </>",
+				"title1": "<TextStyle.Blue> Rules </>",
+				"text1": "\r\n\r\n\r\n\r\n1. Do not undermesh, glitch, exploit, insults, racism, abuse or cheat.\r\n2. Forbidden to spam foundations to excess. (This applies to all structures). 9 Platforms ocean per tribe.\r\n3. Don't build too close to another base.\r\n4. Generated boss dinos are 'FORBIDDEN' in other players' bases. if I have a report with proof its a ban.\r\n5. Your inventory will not be replaced if it is lost. As such please make BPs of any items, clone all your tames and soultrap them and put ALL in a DS VAULT.\r\n6. Pick up your trap after taming.\r\n7. Don’t use Ark Data to transfert your dinos and stuffs between cluster. NO REFUND.\r\n8. Forbidden on setting up a personal store ... Rip structures.\r\n9. For ASA NItrado use DS Structures Mods and Put 2 shields to protect your bases a big and a little to avoid wild dinos destroy your benchs stuffs & dinos....\r\n10. I can't guarantee the stability of nitrados servers, I use them to advertise my dedicated servers. That's why I won't be held responsible for lost items/dinos bought in stores after a crash a bug saves or a wild dino who destroy structures.....",
+				"imageurl": "https://i.imgur.com/YqOg6z4.jpg"
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Red> Donation </>",
+				"title1": "<TextStyle.Blue> Donation </>",
+				"text1": "   \r\n\r\n\r\n By default, you start with 0 points and you have 30 points every 20 minutes.\r\n\r\n\r\n     Vip Bronze    : 10 euros     3000 points for 2 weeks\r\n     Vip Silver       : 20 euros     8000 points for 1 month\r\n     Vip Gold         : 30 euros   12000 points for 1 month\r\n     Vip Platinum :  50 euros  25000 points for 1 month\r\n     Vip God         : 100 euros  50000 points for 2 months\r\n\r\n\r\n     In you character click on AAT to find your EOSID.\r\n     After a purchase do a ticket on discord to get your VIP pack.\r\n     All donations allow to keep the server alive and to buy new slots.\r\n",
+				"imageurl": "https://i.imgur.com/zDVrnF1.jpg"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "<TextStyle.Violet> Discord </>",
+				"url": "https://discord.gg/ck53jj2EB5"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "<TextStyle.Yellow> Donate </>",
+				"url": "https://light.tip4serv.com/"
+			}
+		},
+		{
+			"link3":
+			{
+				"text": "<TextStyle.Red> TUTO </>",
+				"url": "https://www.youtube.com/watch?v=aHQ626sIsdw"
+			}
+		},
+		{
+			"link4":
+			{
+				"text": "<TextStyle.Blue> LOOTBOX </>",
+				"url": "https://light.tip4serv.com/category/primal-descended-1"
+			}
+		}
+	]
+}
+}
